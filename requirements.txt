@@ -1,0 +1,4 @@
+aw_client==0.5.13
+aw_core==0.5.16
+Requests==2.31.0
+urllib3==2.1.0
