@@ -17,7 +17,7 @@ Before running the script, please ensure you have the following installed on you
 Set environment variables for your TimeTagger URL, token, and optionally, the log level:
 
 ```shell
-export TIMETAGGER_URL="https://yourtimetagger.url/api/endpoint"
+export TIMETAGGER_URL="https://yourtimetagger.url/api/v2/records"
 export TIMETAGGER_TOKEN="yourtimetaggertoken"
 export LOG_LEVEL="INFO" # Default is WARNING, options: DEBUG, INFO, WARNING, ERROR, CRITICAL
 ```
